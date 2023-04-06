@@ -2,6 +2,8 @@
 
 Line Drawing App is a web application that can transform images into a pencil-sketch-like line drawing. The application is built with Python and Streamlit.
 
+[See it in action!](https://dovarfalcone-linedrawing-line-iew33h.streamlit.app/)
+
 ## Usage
 
 1. Upload an input image by clicking on the "Upload input image" button.
