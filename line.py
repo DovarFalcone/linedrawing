@@ -4,6 +4,8 @@ import imageio
 import streamlit as st
 import numpy as np
 
+st.set_page_config(page_title='Line Drawing App', page_icon=':pencil:', layout='wide')
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title("Line Drawing App")
